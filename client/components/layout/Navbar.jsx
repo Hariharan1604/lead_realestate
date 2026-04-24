@@ -35,7 +35,7 @@ export default function Navbar() {
       <div className="nav-container">
         <a href="#" className="nav-logo">
           <span className="logo-icon">⬡</span>
-          <span className="logo-text">Lead<span className="logo-accent">Force</span> AI</span>
+          <span className="logo-text">Partn<span className="logo-accent">ero</span></span>
         </a>
 
         <ul className={`nav-links${menuOpen ? ' open' : ''}`} id="navLinks">

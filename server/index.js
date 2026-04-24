@@ -34,5 +34,5 @@ app.get('/api/contact', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`\n  🚀 LeadForce AI Server running on http://localhost:${PORT}\n`);
+  console.log(`\n  🚀 Partnero Server running on http://localhost:${PORT}\n`);
 });

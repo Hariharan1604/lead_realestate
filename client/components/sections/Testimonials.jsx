@@ -2,7 +2,7 @@
 import ScrollReveal from '@/components/ui/ScrollReveal';
 
 const testimonials = [
-  { stars: '★★★★★', quote: 'LeadForce AI completely transformed our lead response time. We went from hours to seconds. Our conversion rate jumped 40% in the first month.', name: 'Rajesh Sharma', role: 'Director, Skyline Developers', initials: 'RS' },
+  { stars: '★★★★★', quote: 'Partnero completely transformed our lead response time. We went from hours to seconds. Our conversion rate jumped 40% in the first month.', name: 'Rajesh Sharma', role: 'Director, Skyline Developers', initials: 'RS' },
   { stars: '★★★★★', quote: 'The AI chatbot qualification is incredible. By the time our agents get the lead, they already know the budget, timeline, and exact requirements.', name: 'Priya Menon', role: 'Sales Head, Urban Nest Homes', initials: 'PM' },
   { stars: '★★★★★', quote: 'The builder handoff feature alone saves us 4+ hours per deal. Everything is packaged and sent automatically. Our builders love the professionalism.', name: 'Amit Kumar', role: 'Founder, PropertyPro Channel', initials: 'AK' },
 ];
